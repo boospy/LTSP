@@ -1,3 +1,5 @@
+This is my collection of scripts and packages that have accumulated following some LTSP projects.  These would like to share here with pleasure with you. 
+
 <img src="https://git.osit.cc/public-projects/ltsp/-/raw/master/ltsp-logo.jpg">
 
 LTSP with Ubuntu https://deepdoc.at/dokuwiki/doku.php?id=server_und_serverdienste:ltsp_mit_ubuntu
